@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe game 
 A simple python program with pygame module for visualisation 
 
 
