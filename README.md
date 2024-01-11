@@ -1,8 +1,16 @@
 # Google's Tic-Tac-Toe Game with clean UI
 
 
-This is a simple Tic-Tac-Toe game created by Sai Kumar Adapa using the Python language for implementation and Pygame library for UI. 
-It allows two players to take turns and compete against each other in the classic game of Tic-Tac-Toe.
+Presenting a Python implementation of the timeless game of Tic-Tac-Toe, enhanced with a user-friendly graphical interface created using the Pygame library. This interactive program offers a platform for two players to engage in strategic battles, taking turns to make their moves on the classic 3x3 grid.
+
+The intuitive graphical user interface adds an engaging dimension to the traditional Tic-Tac-Toe experience. Players can seamlessly navigate through the game, placing their Xs and Os with a simple click, fostering a dynamic and enjoyable gaming atmosphere.
+
+The gameplay follows the familiar rules of Tic-Tac-Toe, where the objective is to create a row of three symbols either horizontally, vertically, or diagonally. The Pygame library facilitates smooth interactions, ensuring a responsive and immersive gaming experience for the players.
+
+With this implementation, the essence of Tic-Tac-Toe is elevated by the combination of Python's logic and Pygame's graphical capabilities. Whether you're a seasoned player looking for a nostalgic experience or a newcomer exploring the world of classic games, this Python-based Tic-Tac-Toe with Pygame promises hours of strategic fun for two players.
+
+
+
 
 ## Features
 
@@ -17,7 +25,7 @@ It allows two players to take turns and compete against each other in the classi
 
 ## How to Play
 
-1. Run the game by executing the `TicTacToe.py` script.
+1. Run the game by executing the `main.py` script.
 2. The game starts with Player 1 (X) making the first move.
 3. Players take turns clicking on empty squares to place their symbol.
 4. The game ends when one player wins or when the board is full (a draw).
